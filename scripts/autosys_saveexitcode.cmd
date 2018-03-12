@@ -1,0 +1,1 @@
+autorep -J $1 -w | grep 'SU ' | sendevent -E SET_GLOBAL -G  "$2=$(awk -F"/" '{print $2}')"
