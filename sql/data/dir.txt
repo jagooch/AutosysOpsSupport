@@ -1,1 +1,0 @@
-Refer to the SCM Standard Directory Structure document for the types of files that should be stored in this location
